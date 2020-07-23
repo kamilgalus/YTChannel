@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\Repozytorium\YTChannel\YTChannel\YTChannel\bin\Debug\YTChannel.exe.config
+C:\Users\LENOVO\Desktop\Repozytorium\YTChannel\YTChannel\YTChannel\bin\Debug\YTChannel.exe
+C:\Users\LENOVO\Desktop\Repozytorium\YTChannel\YTChannel\YTChannel\bin\Debug\YTChannel.pdb
+C:\Users\LENOVO\Desktop\Repozytorium\YTChannel\YTChannel\YTChannel\obj\Debug\YTChannel.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Repozytorium\YTChannel\YTChannel\YTChannel\obj\Debug\YTChannel.exe
+C:\Users\LENOVO\Desktop\Repozytorium\YTChannel\YTChannel\YTChannel\obj\Debug\YTChannel.pdb
